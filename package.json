@@ -1,0 +1,15 @@
+{
+  "name": "create-react-online-store",
+  "description": "a",
+  "version": "0.0.0",
+  "author": "a <myan001@ucr.edu>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
